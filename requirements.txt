@@ -1,0 +1,5 @@
+pandas
+sqlalchemy
+dbt-core
+apache-airflow
+psycopg2-binary
